@@ -273,6 +273,6 @@ Potential extensions include:
 
 ## Author
 
-**Bikram Singh**
+**Anirban Dey Sarkar**
 
 Supply Chain Demand Analytics & Inventory Optimization project built with Python.
